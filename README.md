@@ -1,2 +1,2 @@
-# var.github.io
+# insu-choi.github.io
 blog
